@@ -1,4 +1,3 @@
-package Sorting;
 import java.util.Scanner;
 public class Lexicographical {
     static void swap(String[]arr,int i,int j){

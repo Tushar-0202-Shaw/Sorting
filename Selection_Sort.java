@@ -1,4 +1,3 @@
-package Sorting;
 import java.util.Scanner;
 public class Selection_Sort {
     static void swap(int[]arr,int i,int j){

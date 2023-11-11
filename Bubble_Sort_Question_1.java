@@ -1,4 +1,3 @@
-package Sorting;
 import java.util.Scanner;
 public class Bubble_Sort_Question_1 {
     static void swap(int[]arr,int i,int j){
